@@ -2,7 +2,7 @@
   "name": "vaults-of-vaarn-foundry-vtt",
   "title": "Vaults of Vaarn",
   "description": "A psychedelic science-fantasy RPG set in a blue desert littered with the ruins of the future.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "9.238",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
@@ -101,6 +101,6 @@
   "primaryTokenAttribute": "health",  
   "url": "https://github.com/vaarn/vaults-of-vaarn-foundry-vtt",
   "manifest": "https://raw.githubusercontent.com/vaarn/vaults-of-vaarn-foundry-vtt/master/system.json",
-  "download": "https://github.com/vaarn/vaults-of-vaarn-foundry-vtt/archive/0.0.1.zip",
+  "download": "https://github.com/vaarn/vaults-of-vaarn-foundry-vtt/archive/0.0.2.zip",
   "license": "LICENSE.txt"
 }
