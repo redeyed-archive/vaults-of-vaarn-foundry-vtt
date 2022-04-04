@@ -1,97 +1,97 @@
 {
-  "name": "knave",
-  "title": "KNAVE",
-  "description": "KNAVE is a rules toolkit created by Ben Milton for running old school fantasy RPGs without classes.",
-  "version": "1.7.0",
+  "name": "vaults-of-vaarn-foundry-vtt",
+  "title": "Vaults of Vaarn",
+  "description": "A psychedelic science-fantasy RPG set in a blue desert littered with the ruins of the future.",
+  "version": "0.0.1",
   "minimumCoreVersion": "9.238",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
-  "author": "Rabid Baboon",
-  "esmodules": ["module/knave.js"],
-  "styles": ["css/knave.css"],
+  "author": "Vaults of Vaarn Discord Community",
+  "esmodules": ["module/vaarn.js"],
+  "styles": ["css/vaarn.css"],
   "scripts": [],
   "packs": [
     {
       "name": "armor",
       "label": "Armor",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/armor.db",
       "entity": "Item"
     },
     {
       "name": "clothing",
       "label": "Cothing",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/clothing.db",
       "entity": "Item"
     },
     {
       "name": "food",
       "label": "Food",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/food.db",
       "entity": "Item"
     },
     {
       "name": "items",
       "label": "Items",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/items.db",
       "entity": "Item"
     },
     {
       "name": "light",
       "label": "Light",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/light.db",
       "entity": "Item"
     },
     {
       "name": "macros",
       "label": "Macros",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/macros.db",
       "entity": "Macro"
     },
     {
       "name": "other",
       "label": "Other",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/other.db",
       "entity": "RollTable"
     },
     {
       "name": "rules",
       "label": "Rules",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/rules.db",
       "entity": "JournalEntry"
     },
     {
       "name": "spells",
       "label": "Spells",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/spells.db",
       "entity": "Item"
     },
     {
       "name": "starting-gear",
       "label": "Starting Gear",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/starting-gear.db",
       "entity": "RollTable"
     },
     {
       "name": "traits",
       "label": "Traits",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/traits.db",
       "entity": "RollTable"
     },
     {
       "name": "weapons",
       "label": "Weapons",
-      "system": "knave",
+      "system": "vaults-of-vaarn-foundry-vtt",
       "path": "./packs/weapons.db",
       "entity": "Item"
     }
@@ -99,8 +99,8 @@
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",  
-  "url": "https://github.com/jrommann/knave",
-  "manifest": "https://raw.githubusercontent.com/jrommann/knave/master/system.json",
-  "download": "https://github.com/jrommann/knave/archive/1.7.0.zip",
+  "url": "https://github.com/vaarn/vaults-of-vaarn-foundry-vtt",
+  "manifest": "https://raw.githubusercontent.com/vaarn/vaults-of-vaarn-foundry-vtt/master/system.json",
+  "download": "https://github.com/vaarn/vaults-of-vaarn-foundry-vtt/archive/0.0.1.zip",
   "license": "LICENSE.txt"
 }
